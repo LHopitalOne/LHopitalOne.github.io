@@ -37,6 +37,7 @@ h1, h2 {
     margin-bottom: 20px;
     border-left: 8px solid #6c5ce7;
     padding-left: 10px;
+    text-transform: capitalize;
 }
 
 hr {
